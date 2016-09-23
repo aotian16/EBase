@@ -42,9 +42,10 @@ Some base class for android develop.
 
 # Version
 
-| No.  | Version | Detail        |
-| :--: | :-----: | ------------- |
-|  1   |  1.0.0  | First version |
+| No.  | Version | Detail           |
+| :--: | :-----: | ---------------- |
+|  1   |  1.0.0  | First version    |
+|  2   |  1.0.1  | update appcompat |
 
 # [LICENSE](https://github.com/aotian16/EBase/blob/master/LICENSE)
 
