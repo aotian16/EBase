@@ -23,7 +23,7 @@ Some base class for android develop.
 
 ## By jitpack.io
 
-```
+```groovy
 	allprojects {
 		repositories {
 			...
@@ -32,9 +32,9 @@ Some base class for android develop.
 	}
 ```
 
-```
+```groovy
 	dependencies {
-	        compile 'com.github.aotian16:EBase:v1.0.0'
+	        compile 'com.github.aotian16:EBase:v1.0.1'
 	}
 ```
 
